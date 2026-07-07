@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently learning<br>
+👋 Hi, I'm Swapna
+
+🎓 Final-year BCA Student
+💻 Learning Frontend & Full-Stack Web Development,cloud 
+🌱 Currently learning HTML, CSS, JavaScript, and React
+🎯 Goal: Become a Full-Stack Web Developer<br>
 
 
 ## 🌐 Socials:
