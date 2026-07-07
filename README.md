@@ -9,7 +9,7 @@
 
 🚀 Passionate about building responsive, user-friendly web applications
 
-📫 Reach me: your-email@example.com
+📫 Reach me: cswapna5654@gmail.com
 
 💼 Open to Frontend Developer, Full-Stack Developer, and Software Developer opportunities.
 <br>
