@@ -1,10 +1,18 @@
 # 💫 About Me:
 👋 Hi, I'm Swapna
 
-🎓 Final-year BCA Student
-💻 Learning Frontend & Full-Stack Web Development,cloud 
-🌱 Currently learning HTML, CSS, JavaScript, and React
-🎯 Goal: Become a Full-Stack Web Developer<br>
+🎓 BCA Graduate
+
+💻 Aspiring Frontend / Full-Stack Web Developer
+
+🌱 Currently learning HTML, CSS, JavaScript, React, and Java
+
+🚀 Passionate about building responsive, user-friendly web applications
+
+📫 Reach me: your-email@example.com
+
+💼 Open to Frontend Developer, Full-Stack Developer, and Software Developer opportunities.
+<br>
 
 
 ## 🌐 Socials:
